@@ -5,9 +5,11 @@
 	Country: Brasil
 	State: Pernambuco
 	Developer: Matheus Johann Araujo
-	Date: 2020-11-28
+	Date: 2021-02-23
 */
 
+declare(ticks=1);
+declare(strict_types=1);
 $vendor = __DIR__ . "/vendor/";
 $autoload = $vendor . "autoload.php";
 
